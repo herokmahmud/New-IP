@@ -3,7 +3,7 @@
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1,B4U new
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/480p/index.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Oscar Movies
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1,Goldmine
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -11,7 +11,7 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1,Goldmine 3
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1,Shemaroo 1
+#EXTINF:-1,Shemaroo
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb553d167b6c648a92d43d67d4ef41a0da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756cc9e0a957f378bbdbe306f2c180680585ee2be5da5edf50914d964a6e51d1b882840b28b5fc8d54aba9ddc53c8449b23f7139892a28bd419808fc0011066884061cdb654e3e25bb78b3794db946e359d752d55162789c9f1df7d4c4dc3de3e829beaac6cfe69a5e19c4a4845de24904e8f31c81cc2b209d03cc18ec1b1664938afc51b452eb6ecb383f43b71d20e410cd8af112dca8c715c4fc866d9684d52f4ac9944dd9154fe3e44f4a4c7f58a7e3112bbe45d077dcf3fbdaa0580add58b344301470c038d5c98570cb126f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e7ab620f0b1c3380ae550c3678d14cab8699b6395a569e82a794f75a36033600414cdab29517b5ba80784d589129650a1237189903da6ca5706a083cc613d6ec4434b20f2f29e9b02c1f3d4893dbba9588c6c027e429852f9c82e2c3eb059efc6cb4687f8918e526421f6263c33a/166/640x360_1057680/index.m3u8
 #EXTINF:-1,Shemaroo 2
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
@@ -45,7 +45,7 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 #EXTINF:-1,Zee Cafe
 https://stream.ottplus.bd/live/zee_cafe_hd_abr/live/zee_cafe_720/chunks.m3u8
-#EXTINF:-1,Zee
+#EXTINF:-1,Zee One
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe45f46de39a2e2014a9c794dfa83439fd501e984dd5d83468027f31299c3f18d8541d7e4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670363bdae991ea1f882fd97714bfe805407f27229b76f127f090567ff/194/1920x1080_4362312/index.m3u8
 #EXTINF:-1,Movies Now
 http://ftpbdlive.com:8097/MOVIES-NOW/tracks-v1/index.fmp4.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
@@ -55,15 +55,15 @@ https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 https://stream.ottplus.bd/live/cn_sd_abr/live/cn_sd/chunks.m3u8
 #EXTINF:-1,Discovery Kids
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/17ee3c8d-6299-4f52-87cc-c40b3fc718c9/0.m3u8
 #EXTINF:-1,Sony YAY!
 https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Tiny POP
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1,Star Movies
 http://zflixbd.com:8083/Feedget/Star-Movies/tracks-v1a1/mono.m3u8?token=a2d46b9922c1e5f889fa8fe730201751df8c8f9c-77fd20a169fb517e924efa9db28586bd-1782992601-1782981801
@@ -73,11 +73,11 @@ http://zflixbd.com:8083/Star-Gold/index.m3u8?token=68e2cae6d3679be1cf1e4a77a845c
 http://zflixbd.com:8083/Feedget/SonyPIXHD/index.m3u8?token=a7954f02b4af053bc3f3351280f58328d612ded6-94294831292df90ab8cadf56f0d70064-1782992601-1782981801
 #EXTINF:-1,POGO
 http://zflixbd.com:8083/Feedget/POGO_5/index.m3u8?token=74db1804013942d3b70a535b5624285b87fee171-3ab25549f7c430a9fd30cbbbca2cac6e-1782992602-1782981802
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,ZeeCinemaHD
 http://zflixbd.com:8083/Feedget/ZeeCinemaHD_38/index.m3u8?token=c5cb65ad81cea21fb06f1a92a9afe78480315e5e-6e2ff927e5edb28d44dba1e6305f6e9a-1782993248-1782982448
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,ptv_pk
 http://zflixbd.com:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8?token=6089cd7f7a486aeee66f578b96fab877ceef1fb5-6705daec8eb2a6be19cebc453fab974f-1782993275-1782982475
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,United Sports
 http://zflixbd.com:8083/un-sports/tracks-v1a1/mono.m3u8?token=10a4b27cd8f26c9c46888bd66ec41148ebcefe73-e656e38513b5ff26fa6b2e96cedf264b-1782993310-1782982510
 #EXTINF:-1,BTV
 http://zflixbd.com:8083/btv/index.m3u8?token=92af0f856327dbd4a7dc554cd7ec65aec4cafc2d-259313af6afc4fe209ef0dbd22fc8381-1782993334-1782982534
@@ -89,17 +89,17 @@ https://stream.ottplus.bd/live/islamic_tv/chunks.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Peace TV Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,4K Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1,Animal Planet SD
 https://stream.ottplus.bd/live/animal_planet_sd_abr/live/animal_plnet_sd/chunks.m3u8
 #EXTINF:-1,Animal Planet HD
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Discovery Arab
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,BBCEarth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 #EXTINF:-1,CGTN
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -107,9 +107,9 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist480p.m3u8
 #EXTINF:-1,Discovery HD
 https://stream.ottplus.bd/live/discovery_hd_abr/live/discovery_hd/chunks.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Discovery SD
 https://stream.ottplus.bd/live/id_hd_abr/live/id_hd/chunks.m3u8
 #EXTINF:-1,Discovery Science
 https://stream.ottplus.bd/live/discovery_science_abr/live/discovery_science/chunks.m3u8
@@ -117,7 +117,7 @@ https://stream.ottplus.bd/live/discovery_science_abr/live/discovery_science/chun
 https://stream.ottplus.bd/live/discovery_turbo_abr/live/discovery_turbo_720/chunks.m3u8
 #EXTINF:-1,CGTN
 https://ml-pull-hwc.myco.io/CGTN/hls/CGTN_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,House of Crime
 https://cc-y2z89muounal4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/f3294749-fa02-43ff-ae7f-1edb1323dd5e/0.m3u8
 #EXTINF:-1,BBC Earth
 https://stream.ottplus.bd/live/bbc_earth_hd_abr/live/sony_bbc_earth_hd_720/chunks.m3u8
@@ -125,13 +125,13 @@ https://stream.ottplus.bd/live/bbc_earth_hd_abr/live/sony_bbc_earth_hd_720/chunk
 https://stream.ottplus.bd/live/tlc_hd_abr/live/tlc_hd/chunks.m3u8
 #EXTINF:-1,TLC SD
 https://stream.ottplus.bd/live/tlc_sd_abr/live/tlc_sd/chunks.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Wild Flix
 https://cc-qgrxgp51645lw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/249d0830-b3ef-4f84-a3d0-190c93096c3b/0.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,Wildearth Live
 https://wildearth-plex.amagi.tv/masterR720P.m3u8
-#EXTINF:-1,Unknown Channel
+#EXTINF:-1,XXtreme Jobs 
 https://cc-zko1curyce7jh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/aafbf120-e1f7-4f41-b165-0ac222203579/0.m3u8
 #EXTINF:-1,National Geographic
 http://zflixbd.com:8083/Feedget/National-Geography/index.m3u8?token=e79d702a8536cecb0dd6dd0eecfb123171742955-89e407ee70bd7edea186511e92446be1-1782992602-1782981802
